@@ -1,0 +1,10 @@
+/home/igi/Desktop/grafika_projekat/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/CMakeFiles/project_base.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/CMakeFiles/STB_IMAGE.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/libs/glad/CMakeFiles/edit_cache.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/libs/glad/CMakeFiles/rebuild_cache.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/libs/glad/CMakeFiles/glad.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/libs/imgui/CMakeFiles/rebuild_cache.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/libs/imgui/CMakeFiles/edit_cache.dir
+/home/igi/Desktop/grafika_projekat/cmake-build-release/libs/imgui/CMakeFiles/imgui.dir

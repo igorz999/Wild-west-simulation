@@ -1,0 +1,5 @@
+/home/igi/Desktop/clion-2021.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/igi/Desktop/clion-2021.3.4/bin/ninja/linux/ninja -G Ninja /home/igi/Desktop/grafika_projekat
+-- Found ASSIMP: /usr/lib/x86_64-linux-gnu/libassimp.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/igi/Desktop/grafika_projekat/cmake-build-debug
