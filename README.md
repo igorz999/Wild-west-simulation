@@ -1,14 +1,14 @@
-# Opis projekta:
--selo na divljem zapadu, serif se trudi da prodje kroz raskrsnicu a da ujedno ne udari nijednog pesaka(kocke)
+# Project description:
+-scene is held on a crossroad in some small village on the wild west, sheriff is trying to cross the road without hitting any pedestrians
 
-# Uputsvo:
--kola se krecu na strelice
--ako se kola dotaknu sa nekom od kocki igra je izgubljena
--ako se kolima dodje do druge strane raskrsnice onda je igra uspesno zavrsena
+# Guide:
+-car moves using arrow keys
+-if the car touches one of the pedestrians, it's game over
+-if the car crosses the road successfuly, player won
 
-# Oblasti:
--iz grupe A: Cubemap
--iz grupe B: SSAO
+# Themes:
+-group A: Cubemap
+-group B: SSAO
 
-# Autor:
+# Author:
 Zolotarev Igor mi228/2019
